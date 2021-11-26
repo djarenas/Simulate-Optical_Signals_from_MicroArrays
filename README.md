@@ -1,2 +1,4 @@
 # Simulate-Optical_Signals_from_MicroArrays
 This code consists of a new simple theoretical model to simulate optical signals from microarrays. Searching for multiple organisms with multiple probes per organism presents important challenges. Multiple steps in the analysis algorithms, the use of multiple probes searching for the same organism, and the non-normality of experimental data, make nontrivial the calculation of type I (T1E), type II errors (T2E), and statistical power (1 – T2E). The purpose of this program is to generate simulated optical data from microchip arrays (such as PathoChip1) by two methods: an analytical theoretical method and from bootstrapping of experimental data. This type of simulated signal could be utilized in Monte Carlo simulations to test the T1E and statistical power of various data analysis algorithms. 
+
+A PDF file is presented the theoretical model and how the R functions perform it.
